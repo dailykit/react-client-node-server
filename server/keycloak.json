@@ -1,0 +1,10 @@
+{
+    "realm": "realm1",
+    "bearer-only": true,
+    "auth-server-url": "http://localhost:8281/auth",
+    "ssl-required": "none",
+    "resource": "abc_service",
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+}
